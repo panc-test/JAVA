@@ -20,6 +20,8 @@ public class TestScanner {
 		
 		System.out.println("你的个人信息如下：");
 		System.out.println("姓名："+name+"\n"+"年龄："+age+"\n"+"工资："+salary);   //  "\n"转义字符换行
+		
+		input.close();
 	}
 
 }

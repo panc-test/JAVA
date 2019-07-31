@@ -1,7 +1,7 @@
-package java_201906;
-
 //if else 嵌套语句
 //假设某航空公司为吸引更多的顾客推出了优惠活动。原来的飞机票价为 3000 元，活动时，4~11 月旺季，头等舱 9 折，经济舱 8 折；1~3 月、12 月淡季，头等舱 5 折，经济舱 4 折，求机票的价格。
+
+package java_201906;
 
 import java.util.Scanner;
 public class TestIfElse02 {
@@ -39,7 +39,7 @@ public class TestIfElse02 {
 		else {
 			System.out.println("输入出行月份非法，请重新输入");
 		}
-		
+		input.close();
 	}
 
 }

@@ -22,6 +22,7 @@ public class Continue {
 				continue;
 			}
 			count++;
+		input.close();
 		}
 		System.out.println("java成绩大于等于80的学生人数："+count);
 	}

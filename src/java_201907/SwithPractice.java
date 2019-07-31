@@ -60,6 +60,7 @@ public class SwithPractice {
 			break;
 		}
 		System.out.println("你的星座是："+xingzuo);
+		input.close();
 	}
 
 }

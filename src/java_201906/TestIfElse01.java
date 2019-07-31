@@ -21,7 +21,7 @@ public class TestIfElse01 {
 		else {
 			System.out.println("差");
 		}
-
+		input.close();
 	}
 
 }

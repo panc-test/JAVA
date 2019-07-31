@@ -22,9 +22,8 @@ public class SwitchCase {
 		    		break;
 		    	default:
 		    		System.out.println("谢谢参与");
-		}
-		
-
+		    }
+		input.close();
 	}
 
 }
