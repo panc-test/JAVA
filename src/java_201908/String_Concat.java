@@ -1,8 +1,8 @@
 //String 类的 concat() 方法实现了将一个字符串连接到另一个字符串的后面
 
-package test;
+package java_201908;
 //import java.lang.String;
-public class Concat {
+public class String_Concat {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

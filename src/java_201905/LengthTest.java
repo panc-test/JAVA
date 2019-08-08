@@ -1,5 +1,7 @@
-package java_201905;
 //lenth,length(),size的区别
+
+package java_201905;
+
 public class LengthTest {
 
 	public static void main(String[] args) {

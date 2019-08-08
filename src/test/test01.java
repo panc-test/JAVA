@@ -1,7 +1,7 @@
 //鸡和鸭共35只，腿94只，计算鸡鸭各多少只  
 package test;
 
-public class JiYa {
+public class test01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
