@@ -5,13 +5,14 @@ StringBuffer(String str) 创建一个字符串缓冲区，并将其内容初始�
 
 package java_201908;
 
-public class StringBuffer_test01 {
+public class StringBuffer_capacity {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		StringBuffer str1=new StringBuffer();
 		StringBuffer str2=new StringBuffer(10);
 		StringBuffer str3=new StringBuffer("java");
+		
 		//capacity()方法返回字符串的容量大小
 		System.out.println(str1.capacity());
 		System.out.println(str2.capacity());
