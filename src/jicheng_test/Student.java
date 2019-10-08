@@ -16,6 +16,7 @@ public class Student extends People {
         this.department=department;
 	}
 	
+	//方法重写，重写父类People的toString方法
 	public String toString() {
 		return "姓名："+name+"\n年龄："+age+"\n性别"+sex+"\n身份证："+sn+"\n学号："+stuNo+"\n专业："+department;
 	}
