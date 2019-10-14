@@ -27,6 +27,7 @@ public class Try_Catch_Throw_Test {
             e3.printStackTrace();
             System.out.println("发生错误！"+e3.getMessage());
 		}
+		input.close();
 	}
 
 }
